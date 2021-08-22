@@ -109,7 +109,6 @@ public class pass_gene {
                 if(step.equalsIgnoreCase("y") || step.equalsIgnoreCase("e")) {
                     break;
                 }
-//                 the data should be added to in xl file and not in the txt file so that the data can be fetched easily
         }
     }
 }
